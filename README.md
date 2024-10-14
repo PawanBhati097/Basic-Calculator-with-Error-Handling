@@ -1,0 +1,1 @@
+The objective of this project is to build a simple calculator that can perform basic arithmetic operations—addition, subtraction, multiplication, and division—while handling errors such as invalid inputs and division by zero. This will enhance your understanding of functions, conditionals, user input, and error handling in Python.
